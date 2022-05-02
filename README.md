@@ -5,7 +5,7 @@
 ---
 ## Analysis images
 - ![Parent Category Outcomes Chart.png](/Users/emarieswenson/Desktop/Classwork/Crowdfunding analysis!)
-- ![Launchdate.png](/Users/emarieswenson/Desktop/Classwork/Crowdfunding analysis)
+- ![Launchdate.png](https://github.com/emariecovey/Kickstarter-analysis/blob/main/launchdate.png)
 - ![Goal and pledged](/Users/emarieswenson/Desktop/Classwork/Crowdfunding analysis)
 ---
 ## Recommendations for Louise: 
