@@ -36,18 +36,18 @@ What can you conclude about the Outcomes based on Goals?
 
 1. The most successful plays were less than $5000, and generally the lower the goal, the better chance for success. There is a chunk of plays with goals between $35,000-$45000 that were very successful as well. Perhaps these larger goal plays were from a few very prominent theaters that needed large budgets, and were well-known enough to get a lot of funding and not be subjected to the lower-the-better trend. 
 
-2. No many plays in any category were canceled. According to [kickstarter.com](https://help.kickstarter.com/hc/en-us/articles/115005138393-How-can-I-cancel-my-project-), campaigns are usually canceled to make large changes to the project, like the funding goal or campaign duration. Plays either were successful or unsuccessful, so people fundraising for plays must have not needed to rework their ideas after the launch of the campaign. 
+2. No many plays in any category were canceled. According to [kickstarter.com](https://help.kickstarter.com/hc/en-us/articles/115005138393-How-can-I-cancel-my-project-), campaigns are usually canceled to make large changes to the project, such as the funding goal or campaign duration. Plays either were successful or unsuccessful, so people fundraising for plays must have not needed to rework their ideas after the launch of the campaign. 
 
 Limitations
 
 1. Donors could have theoretically donated outside of the kickstarter fundraiser (donated directly to the person fundraising?), resulting in the donation not being recorded in the dataset. Campaigners could have also lessened the budget for their project after the campaign if they got some, but not all, of the desired funding. Both of these would perhaps push some of the "failed" campaigns to the "successful" category. 
 
-2. The data is from all over the world. There are many factors that result in a campaign being funded or not, and the factors likely change based on your geographic location. There could be outside forces acting in different locations that we aren't aware of. For example, theater is very important in New York City or London, and is likely funded more than other areas. 
+2. The data is from all over the world. There are many factors that result in a campaign being funded or not, and the factors likely change based on  geographic location. There could be outside forces acting in different locations that we aren't aware of. For example, theater is very important in New York City or London, and is likely funded more than other areas. 
 
 What are some other possible tables and/or graphs that we could create? 
 
-1. Do campaigns that have a longer duration more successful? Create a pivot table with length of duration and campaign outcome. This would help Louise see how long an idea campaign should be. 
+1. Do campaigns that have a longer duration have more success? Create a pivot table with length of duration and campaign outcome. This would help Louise see how long an idea campaign should be. 
 
-2. Do campaigns with more backers have more success? Create a pivot table with number of backers and campaign outcome. This would help Louise see if she should focus on the masses or zero in on a few wealthier backers. 
+2. Do campaigns with more backers have more success? Create a pivot table with number of backers and campaign outcome. This would help Louise see if she should focus on the masses or should zero in on a few wealthier backers. 
 
 
