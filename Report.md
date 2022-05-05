@@ -20,7 +20,11 @@ I created another sheet to record the number and percentage of play outcomes (su
 
 ### Challenges and Difficulties Encountered
 
-I didn't have any challenges with the analysis of outcomes based on launch date. However, using the COUNTIFS() function for the analysis of outcomes based on goals did present a greater challenges. The main challenge for me was figuring out how to count in a range (for example, 1000-4999). I knew how to write <1000 and >5000, but I had to figure out how to put >=10000, <=4999. I tried a few more complicated ways of doing it before realizing that you tell excel to look for something greater than 1000 and also less than 4999. I was overthinking the syntax. Once I figured out that part, I was able to get the correct graph. 
+I didn't have any challenges with the analysis of outcomes based on launch date. However, using the COUNTIFS() function for the analysis of outcomes based on goals did present a greater challenges. This is the code I'm referencing:
+
+=COUNTIFS(kickstarter!$F:$F,"Successful",kickstarter!$D:$D,">=1000", kickstarter!$D:$D, "<=4999", kickstarter!$R:$R, "plays")
+
+The main challenge for me was figuring out how to count in a range (for example, 1000-4999). I knew how to write <1000 and >5000, but I had to figure out how to put >=10000, <=4999. I tried a few more complicated ways of doing it before realizing that you tell excel to look for something greater than 1000 and also less than 4999. I was overthinking the syntax. Once I figured out that part, I was able to get the correct graph. 
 
 ## Results
 
